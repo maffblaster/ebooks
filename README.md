@@ -1,2 +1,4 @@
-# ebooks
-Ebuild repo containing FOSS ebooks
+# ebooks overlay
+An ebuild repository containing FOSS ebooks.
+
+
